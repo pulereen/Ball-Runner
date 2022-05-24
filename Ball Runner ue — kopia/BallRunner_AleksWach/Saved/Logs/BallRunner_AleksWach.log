@@ -3713,3 +3713,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.24-15.56.29:864][ 87]LogUObjectHash: Compacting FUObjectHashTables data took 209.92ms
 [2022.05.24-15.56.39:570][ 87]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2022.05.24-15.56.39:570][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-15.57.07:258][ 87]LogSlate: Window 'BallRunner_AleksWach - Unreal Editor' being destroyed
+[2022.05.24-15.57.07:757][ 87]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.24-15.57.32:015][ 87]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.24-15.57.32:542][ 88]Cmd: QUIT_EDITOR
+[2022.05.24-15.57.32:609][ 88]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.24-15.57.33:194][ 88]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.24-15.57.35:356][ 88]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.24-15.57.35:386][ 88]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.24-15.57.35:386][ 88]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2022.05.24-15.57.35:636][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.24-15.57.36:118][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.24-15.57.37:542][ 88]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.24-15.57.37:543][ 88]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.24-15.57.40:946][ 88]LogExit: Preparing to exit.
+[2022.05.24-15.57.52:354][ 88]LogUObjectHash: Compacting FUObjectHashTables data took 144.61ms
